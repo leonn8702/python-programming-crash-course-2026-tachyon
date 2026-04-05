@@ -5,6 +5,7 @@
 ## Summary - Viva Syllabus
 - Programming
 - Variables
+- Comments
 - Program Control Statements
   - if elif else -> condition
   - while for -> loop
